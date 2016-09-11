@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title><tiles:insertAttribute name="title" /></title>
+<title> Sample Application</title>
 <link rel="stylesheet" type="text/css"
 	href="<c:url value='/resources/style/style.css'/>" />
 </head>

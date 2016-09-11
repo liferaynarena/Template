@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title> <tiles:putAttribute name="title"/> - Company </title>
+<title> <tiles:insertAttribute name="title"/> - Company </title>
 <link rel="stylesheet" type="text/css"
 	href="<c:url value='/resources/style/style.css'/>" />
 </head>
